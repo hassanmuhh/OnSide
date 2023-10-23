@@ -56,7 +56,3 @@ We welcome contributions from the football community! If you'd like to contribut
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
----
-
-Feel free to modify this README content to align with your project's specifics, and don't forget to include relevant links, images, and any other information that makes your sports website unique and engaging for football fans.
