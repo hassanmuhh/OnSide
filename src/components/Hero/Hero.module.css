@@ -1,0 +1,71 @@
+/* .heroSection {
+  background-color: saddlebrown;
+  display: grid;
+  grid-template-columns: 1fr 1.5fr;
+  column-gap: 2.4rem;
+} */
+
+/* 
+--light-green: #beef9eff;
+--dartmouth-green: #106a2aff;
+--olivine: #a6c36fff;
+--night: #141115ff;
+--gunmetal: #292f36ff;
+*/
+
+.heroBackground {
+  background-image: url('../../assets/images/fans-bck.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  height: 100vh;
+  filter: brightness(0.4);
+  position: relative;
+}
+
+
+.heroHeading {
+  padding: 0 3.2rem;
+  color: #eaeaea;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 7.2rem;
+  height: 90%;
+  width: 99%;
+  text-align: center;
+
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.heroHeading p {
+  font-size: 3.2rem;
+  position: fixed;
+  bottom: 0;
+  left: 50%;
+  transform: translate(-50%);
+}
+
+.heroContent {
+  display: flex;
+  flex-direction: column;
+}
+
+.heroSecondHeading {
+  background-color: rgb(22, 82, 133);
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  line-height: 1.8;
+  border-bottom: 1px solid #000;
+}
+
+.heroSecondHeading h2 {
+  font-size: 7.6rem;
+}

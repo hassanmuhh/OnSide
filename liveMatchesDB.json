@@ -1,0 +1,299 @@
+{
+  "1": {
+    "fixture": {
+      "id": 1023182,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2023-05-04T14:00:00+00:00",
+      "timestamp": 1683208800,
+      "periods": {
+        "first": 1683208800,
+        "second": null
+      },
+      "venue": {
+        "id": 19311,
+        "name": "Pouria Vali Talesh Stadium",
+        "city": "Talesh"
+      },
+      "status": {
+        "long": "First Half",
+        "short": "1H",
+        "elapsed": 45
+      }
+    },
+    "league": {
+      "id": 291,
+      "name": "Azadegan League",
+      "country": "Iran",
+      "logo": "https://media-1.api-sports.io/football/leagues/291.png",
+      "flag": "https://media-2.api-sports.io/flags/ir.svg",
+      "season": 2022,
+      "round": "Regular Season - 31"
+    },
+    "teams": {
+      "home": {
+        "id": 10387,
+        "name": "Chooka Talesh",
+        "logo": "https://media-1.api-sports.io/football/teams/10387.png",
+        "winner": null
+      },
+      "away": {
+        "id": 18159,
+        "name": "Shams Azar Qazvin",
+        "logo": "https://media-3.api-sports.io/football/teams/18159.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    },
+    "events": []
+  },
+  "2": {
+    "fixture": {
+      "id": 1024747,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2023-05-04T14:45:00+00:00",
+      "timestamp": 1683211500,
+      "periods": {
+        "first": 1683211500,
+        "second": null
+      },
+      "venue": {
+        "id": null,
+        "name": null,
+        "city": null
+      },
+      "status": {
+        "long": "First Half",
+        "short": "1H",
+        "elapsed": 9
+      }
+    },
+    "league": {
+      "id": 496,
+      "name": "Liga Alef",
+      "country": "Israel",
+      "logo": "https://media-3.api-sports.io/football/leagues/496.png",
+      "flag": "https://media-2.api-sports.io/flags/il.svg",
+      "season": 2022,
+      "round": "Promotion Play-offs - 2nd Round"
+    },
+    "teams": {
+      "home": {
+        "id": 6160,
+        "name": "Hapoel Kfar Shalem",
+        "logo": "https://media-1.api-sports.io/football/teams/6160.png",
+        "winner": true
+      },
+      "away": {
+        "id": 6153,
+        "name": "Hapoel Herzliya",
+        "logo": "https://media-1.api-sports.io/football/teams/6153.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    },
+    "events": [
+      {
+        "time": {
+          "elapsed": 9,
+          "extra": null
+        },
+        "team": {
+          "id": 6160,
+          "name": "Hapoel Kfar Shalem",
+          "logo": "https://media-3.api-sports.io/football/teams/6160.png"
+        },
+        "player": {
+          "id": null,
+          "name": null
+        },
+        "assist": {
+          "id": null,
+          "name": null
+        },
+        "type": "Goal",
+        "detail": "Normal Goal",
+        "comments": null
+      }
+    ]
+  },
+  "3": {
+    "fixture": {
+      "id": 964805,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2023-05-04T13:30:00+00:00",
+      "timestamp": 1683207000,
+      "periods": {
+        "first": 1683207000,
+        "second": 1683210600
+      },
+      "venue": {
+        "id": 12567,
+        "name": "Al Assiouty Sport Stadium",
+        "city": "Beni Suef"
+      },
+      "status": {
+        "long": "Second Half",
+        "short": "2H",
+        "elapsed": 55
+      }
+    },
+    "league": {
+      "id": 887,
+      "name": "Second League - Group A",
+      "country": "Egypt",
+      "logo": "https://media-3.api-sports.io/football/leagues/887.png",
+      "flag": "https://media-3.api-sports.io/flags/eg.svg",
+      "season": 2022,
+      "round": "Group A - 24"
+    },
+    "teams": {
+      "home": {
+        "id": 13823,
+        "name": "Telephonaat Beni Suef",
+        "logo": "https://media-3.api-sports.io/football/teams/13823.png",
+        "winner": false
+      },
+      "away": {
+        "id": 18024,
+        "name": "El Madina El Monowara",
+        "logo": "https://media-3.api-sports.io/football/teams/18024.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 3
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    },
+    "events": [
+      {
+        "time": {
+          "elapsed": 5,
+          "extra": null
+        },
+        "team": {
+          "id": 18024,
+          "name": "El Madina El Monowara",
+          "logo": "https://media-3.api-sports.io/football/teams/18024.png"
+        },
+        "player": {
+          "id": null,
+          "name": null
+        },
+        "assist": {
+          "id": null,
+          "name": null
+        },
+        "type": "Goal",
+        "detail": "Normal Goal",
+        "comments": null
+      },
+      {
+        "time": {
+          "elapsed": 49,
+          "extra": null
+        },
+        "team": {
+          "id": 18024,
+          "name": "El Madina El Monowara",
+          "logo": "https://media-1.api-sports.io/football/teams/18024.png"
+        },
+        "player": {
+          "id": null,
+          "name": null
+        },
+        "assist": {
+          "id": null,
+          "name": null
+        },
+        "type": "Goal",
+        "detail": "Normal Goal",
+        "comments": null
+      },
+      {
+        "time": {
+          "elapsed": 50,
+          "extra": null
+        },
+        "team": {
+          "id": 18024,
+          "name": "El Madina El Monowara",
+          "logo": "https://media-3.api-sports.io/football/teams/18024.png"
+        },
+        "player": {
+          "id": null,
+          "name": null
+        },
+        "assist": {
+          "id": null,
+          "name": null
+        },
+        "type": "Goal",
+        "detail": "Normal Goal",
+        "comments": null
+      }
+    ]
+  }
+}

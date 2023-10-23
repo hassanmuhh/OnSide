@@ -1,0 +1,48 @@
+.header {
+  font-family: 'Proxima';
+  font-size: 2.4rem;
+  padding: 0 2.4rem;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.4);
+
+}
+
+.logo {
+  font-family: 'TT';
+  font-size: 4.2rem;
+  text-transform: uppercase;
+}
+
+.navList {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.mainLinks {
+  display: flex;
+  /* background-color: yellow; */
+  gap: 3.2rem;
+  text-transform: uppercase;
+}
+
+.mainLinks a {
+  background-color: #000;
+  border: 1px solid transparent;
+  width: 10rem;
+  text-align: center;
+  color: #ddd;
+  transition: all 0.3s ease-in;
+}
+
+.mainLinks a:active,
+.mainLinks a:hover {
+  background-color: transparent;
+  border: 1px solid #000;
+  color: #106A2A;
+}
+
+.mainLinks .active {
+  background-color: transparent;
+  border: 1px solid #000;
+  color: #106A2A;
+}

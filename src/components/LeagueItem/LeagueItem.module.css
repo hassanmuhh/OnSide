@@ -1,0 +1,86 @@
+.leagueItem {
+  width: 90%;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #368422;
+}
+
+.leagueHeader {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.leagueHeader h2 {
+  font-size: 3.2rem;
+  margin-bottom: 2.4rem;
+}
+
+.leagueHeader h2 span {
+  font-size: 1.2rem;
+  font-style: italic;
+}
+
+.leagueHeader img {
+  width: 45%;
+}
+
+.leagueHeader em {
+  margin-top: 1.8rem;
+  font-size: 1.2rem;
+}
+
+.leagueContent {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  width: 90%;
+  margin-top: 3.2rem;
+  padding: 2.4rem;
+}
+
+.leagueContent h3 {
+  font-size: 2.4rem;
+  margin-bottom: 2.4rem;
+}
+
+.league {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.leagueSeasons {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 70%;
+  align-items: flex-start;
+}
+
+.leagueSeasons ul {
+  display: flex;
+  list-style-type: none;
+  justify-content: center;
+  align-items: center;
+  gap: 2.4rem;
+  flex-wrap: wrap;
+}
+
+.leagueSeasons ul li {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: 1.1rem;
+  font-weight: bold;
+  padding: 0.4rem;
+}
+
+.leagueSeasons ul li:hover {
+  background-color: #000;
+  color: #fff;
+  scale: 1.1;
+  cursor: pointer;
+}

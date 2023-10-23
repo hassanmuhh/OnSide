@@ -1,0 +1,12 @@
+.LoadingDiv {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 4.8rem;
+  font-weight: bold;
+  background-color: #a39191;
+}
+
+.LoadingDiv p {
+  font-size: 3.2rem;
+}

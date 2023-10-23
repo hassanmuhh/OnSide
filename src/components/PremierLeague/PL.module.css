@@ -1,0 +1,25 @@
+.nav {
+  width: 100%;
+  margin: 7.2rem 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.navUl {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+}
+
+.navUl a {
+  font-size: 3.6rem;
+  font-weight: bold;
+  padding: 1.8rem;
+}
+
+.navUl a:hover,
+.active {
+  background-color: #000;
+  color: #fff;
+}
